@@ -1,0 +1,55 @@
+#parent
+{
+	padding-top: 120px;
+	text-align: center;
+}
+
+.button 
+{
+  background-color: #2ac7c9; 
+  border: none;
+  color: white;
+  padding: 8px 100px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.heading 
+{
+  background-color: #2ac7c9; 
+  border: none;
+  color: white;
+  padding: 8px 95px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#facebook
+{
+  background-color: #3b5998; 
+  border: none;
+  color: white;
+  padding: 8px 115px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#google
+{
+  background-color: #dd4b39; 
+  border: none;
+  color: white;
+  padding: 8px 115px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#epam
+{
+  background-color: #4c9e37; 
+  border: none;
+  color: white;
+  padding: 8px 70px;
+  text-align: center;
+  text-decoration: none;
+}
